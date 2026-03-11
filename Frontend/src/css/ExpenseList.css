@@ -1,0 +1,68 @@
+.expense-container {
+  min-height: 100vh;
+  background-color: #e6e6e6;
+  padding: 40px 0;
+}
+
+.expense-box {
+  width: 70%;
+  margin: auto;
+  background: white;
+  padding: 40px;
+  border-radius: 6px;
+}
+
+.expense-title {
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+.expense-item {
+  padding: 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.expense-name {
+  color: #28a745;
+  font-weight: 600;
+}
+
+.expense-detail {
+  font-size: 13px;
+  color: #666;
+  margin-top: 5px;
+}
+
+.expense-actions {
+  margin-top: 10px;
+}
+
+.btn-edit {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  margin-right: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn-delete {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn-add {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
